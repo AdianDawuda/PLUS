@@ -14,6 +14,7 @@ var s2 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED"),
           [12.529079335175014, 43.888685087118866],
           [12.529079335175014, 43.99770114718763]]], null, false);
 /***** End of imports. If edited, may not auto-convert in the playground. *****/
+
 // Define Area of Interest
 var aoi = geometry;
 
